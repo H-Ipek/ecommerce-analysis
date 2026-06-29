@@ -4,7 +4,7 @@
 
 | Bilgi | Detay |
 |-------|-------|
-| **Ad SoyAD** | Hava İpek Karagöz |
+| **Ad Soyad** | Hava İpek Karagöz |
 | **Öğrenci Numarası** | 1306240041 |
 | **Ders** | Veri Bilimi |
 | **Öğretim Üyesi** | Doç. Dr. Muhammed Erdem İsenkul |
