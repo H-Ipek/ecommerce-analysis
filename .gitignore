@@ -1,0 +1,27 @@
+# Veri dosyası — lisans gereği repoya eklenmez
+data/
+*.csv
+
+# Jupyter checkpoint dosyaları
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS sistem dosyaları
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ortam dosyaları
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
